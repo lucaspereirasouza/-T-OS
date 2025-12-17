@@ -1,5 +1,6 @@
 <div align="center">
   <h1>&lt;T&gt;OS </h1>
+  <h2>Order and Service system Application for Products</h2>
   <img height=150px src="https://github.com/lucaspereirasouza/GenericTypeOrderAndService/blob/master/imgReadme/GenericTypeOrderAndServiceIcon.png"></img>
 </div>
 
