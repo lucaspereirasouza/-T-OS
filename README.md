@@ -7,12 +7,11 @@
 #### PT-BR manual and installation here: <a href="readme_pt-br/">README_PT-BR</a>
 
 > ### Serviços utilizados:
-| MYSQL  | JAVA   | DOCKER | or | Xampp |
+| MYSQL  | JAVA   | DOCKER | or | Xampp (optional) |
 |--------|--------|--------| -- | ----- |
 | 8.0.32 | 17.0.6 | Latest | -- | Latest |
 ____________________________
 ## Installation
-##### <small> docker and xampp choice is opcional, but you need to choose one </small>
 
 ### Manual and Java installation
 #### https://www.java.com/pt-BR/download/manual.jsp
@@ -20,7 +19,7 @@ ____________________________
 
 ### Docker manual and installation
 #### https://docs.docker.com/engine/install/
-### Xampp Website for installation
+### Xampp install
 #### https://www.apachefriends.org/pt_br/index.html
 ____
 ## Docker compose <a href="https://hub.docker.com/"><img src="https://img.icons8.com/?size=256&id=22813&format=png" height=50px></img></a>
@@ -30,15 +29,11 @@ _____
 ```bash
 wget https://github.com/lucaspereirasouza/OSJFX/blob/master/docker/docker-compose.yaml
 ```
-
-#### warning: its possible to refuse connection if you try to connect to fast on docker
 ___
 ## Xampp <a href="https://www.apachefriends.org/pt_br/index.html"><img src="/imgReadme/xamppIcon.png" height=50px></img></a>
 ## After finish xampp installation, turn on the apache and mysql servers and acess the local host 
 ### <small>detail: xampp local acess has not login in localhost</small>
 ____
-
-#### <small> I suggest using root only for insert the database and nothing else </small>
 - user: root
 - senha: root@passwd@changeme
 ____
