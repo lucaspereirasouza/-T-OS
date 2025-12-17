@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>&lt;T&gt;OS </h1>
+    <img height=150px src="https://github.com/lucaspereirasouza/GenericTypeOrderAndService/blob/master/imgReadme/TOSLogo.png"></img>
   <h2>Order and Service system Application for Products</h2>
-  <img height=150px src="https://github.com/lucaspereirasouza/GenericTypeOrderAndService/blob/master/imgReadme/GenericTypeOrderAndServiceIcon.png"></img>
+
 </div>
 
 #### PT-BR manual and installation here: <a href="readme_pt-br/">README_PT-BR</a>
