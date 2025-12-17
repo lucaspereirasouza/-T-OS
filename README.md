@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Generic &lt;T&gt; Order and Service </h1>
+  <h1>&lt;T&gt;OS </h1>
   <img height=150px src="https://github.com/lucaspereirasouza/GenericTypeOrderAndService/blob/master/imgReadme/GenericTypeOrderAndServiceIcon.png"></img>
 </div>
 
